@@ -1,8 +1,15 @@
+# Python
 venv/
 .venv/
 __pycache__/
 *.pyc
+
+# Env file (VERY IMPORTANT)
 .env
+
+# Uploads
 uploads/
-node_modules/
+
+# OS
 .DS_Store
+Thumbs.db
